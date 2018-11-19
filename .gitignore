@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+## macOS cache files
+*.DS_Store
+.AppleDouble
+.LSOverride
+
 # Object files
 *.o
 *.ko
