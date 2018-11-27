@@ -1,2 +1,2 @@
-# y86-simulator
-A simple Y-86 Simulator.
+# y64-simulator
+A simple Y86-64 Simulator.
